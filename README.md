@@ -1,2 +1,4 @@
 # hello-world
-Its my first repository
+my name is jatin and
+It is my first repository
+i ever made
